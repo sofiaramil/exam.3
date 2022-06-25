@@ -4,7 +4,7 @@
 
 .header {
     min-height: 58px;
-    background: #19849B;
+    background: var(--main-blue);
     display: flex;
     justify-content: center;
     align-items: center;
